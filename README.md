@@ -2,7 +2,8 @@
 Usage : <br>
 <pre>
 { Advanced Hash Cracker V2 }
-Usage : php h_crackv2.php '<hash>' <type> <min> <max> <charset>
+Usage : php h_crackv2.php '[hash]' [type] [min] [max] '[charset]'
+
 Type  : -md5
         -bcrypt (CMS Sekolahku) (SLOWER)
         -sha1
